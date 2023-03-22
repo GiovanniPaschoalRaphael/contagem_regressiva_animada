@@ -1,2 +1,4 @@
 # contagem_regressiva_animada
-contagem regressiva animada
+
+ projeto simples  de contagem regressiva usando APENAS  HTML, CSS, JAVASCRIPT
+Contagem regressiva animada
